@@ -1,0 +1,4 @@
+ - Manually look for python if not in path
+ - add switch to only extract iso to help prevent overwritting the baseiso dir
+ - CMD Batch file wrapper for powershell script
+ - create new tool to help with unpacking and packing PS2 ROMS
