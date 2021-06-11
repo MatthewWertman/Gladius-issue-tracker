@@ -20,7 +20,7 @@ Feb 20, 2021
 May 13, 2021
 * [Added echo flag](https://github.com/MatthewWertman/Gladius/commit/ffbcecbd98f64ab6cdc5aa69b5234e0c2ce6c080)
 * Created [shell](https://github.com/MatthewWertman/Gladius/commit/099f2c8952fe14dee02010a60e50a549689ec37c) and [PS](https://github.com/MatthewWertman/Gladius/commit/55c338f6a83ccf6a11b6ca91c83f68b0824d38b6) launch script
-* Added support for extracting audio data(https://github.com/MatthewWertman/Gladius/commit/476c6451a2dc78746f37ef3cc8c8b7aa20ecbeab)
+* [Added support for extracting audio data](https://github.com/MatthewWertman/Gladius/commit/476c6451a2dc78746f37ef3cc8c8b7aa20ecbeab)
 
 May 14, 2021
 * [Fixed EORR function](https://github.com/MatthewWertman/Gladius/commit/517e7e8fca461ba17a115ba0bb9a9b5f825f1550)
@@ -47,3 +47,6 @@ Jun 7, 2021
 Jun 8, 2021
 * [Add manual check for Python if not in PATH](https://github.com/MatthewWertman/Gladius/commit/6b0a6af619c6f419123270d2fb466ed53b9f224e)
 * [quick patch: fix check in audio switch](https://github.com/MatthewWertman/Gladius/commit/d75002df61be40c207bb21950e56e936319f7e76)
+
+Jun 10, 2021
+* [Implemented Issue #2: Added --gc flag when closing GameCube BEC](https://github.com/MatthewWertman/Gladius/commit/4aaa27b0b457eb295be2c56b0e26c68ea87ac7b2)
